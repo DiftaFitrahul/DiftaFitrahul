@@ -1,4 +1,4 @@
-[![MasterHead](https://fbcoverstreet.com/thumbnail/4gRsp42KpKzoualOU8SL2lIxe1pPkFFfAQdxvXl7TUEthDTVAFr9mXrRYdNxNmik.webp)]
+![MasterHead](https://fbcoverstreet.com/thumbnail/4gRsp42KpKzoualOU8SL2lIxe1pPkFFfAQdxvXl7TUEthDTVAFr9mXrRYdNxNmik.webp)
 <h1 align="center">Hi 👋, I'm Difta Fitrahul Q</h1>
 <h3 align="center">A passionate Mobile App Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn1.vectorstock.com/i/1000x1000/47/05/young-man-programmer-working-on-computer-with-code-vector-18324705.jpg">
