@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diftafitrahul&label=Profile%20views&color=0e75b6&style=flat" alt="diftafitrahul" /> </p>
 
-- 🌱 I’m currently learning **Mobile App, Web, and UI/UX**
+- 🌱 I’m currently learning **Mobile App, Machine Learning, and backend**
 
 - 💬 Ask me about **C++ and Flutter**
 
